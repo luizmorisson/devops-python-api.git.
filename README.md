@@ -192,3 +192,4 @@ No `Dockerfile`, troque `--host 0.0.0.0` por `--host 127.0.0.1`. O processo inic
 - [actions/upload-artifact](https://github.com/actions/upload-artifact)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Docker para Python](https://docs.docker.com/language/python/)
+Projeto acadêmico de Integração DevOps.
